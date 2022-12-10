@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "666255596549",
+    "project_id": "pushdemo-4bbc1",
+    "storage_bucket": "pushdemo-4bbc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666255596549:android:dcc74455d4cc1a64c6106c",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666255596549-fdshuhuu1m2ss38l3p4su3d7ol3faf39.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.awesomeproject",
+            "certificate_hash": "5114633b185e4ab9d2fb1fcf6cd1c28a0333a112"
+          }
+        },
+        {
+          "client_id": "666255596549-tmg4hlnpsgnfvoir1q1ius0ivdoehe4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdxovpqKalY1tY6r7crev57c_MQQRv99U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666255596549-tmg4hlnpsgnfvoir1q1ius0ivdoehe4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666255596549:android:c85cc49c299ee6b6c6106c",
+        "android_client_info": {
+          "package_name": "com.vogelcoage.fcmExample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666255596549-55a88fqqlv84m0iv85f96smtfj15peee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vogelcoage.fcmExample",
+            "certificate_hash": "319f469d094d7ecdf61b23b3bd383a480f5933a3"
+          }
+        },
+        {
+          "client_id": "666255596549-ac61us65jje74m5ispkaglb0tee004ae.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vogelcoage.fcmExample",
+            "certificate_hash": "a3e8fe4b407749ac6be45f9fa1ef0cf512082304"
+          }
+        },
+        {
+          "client_id": "666255596549-tmg4hlnpsgnfvoir1q1ius0ivdoehe4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdxovpqKalY1tY6r7crev57c_MQQRv99U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666255596549-tmg4hlnpsgnfvoir1q1ius0ivdoehe4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
